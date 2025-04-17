@@ -1,0 +1,7 @@
+python-telegram-bot==13.15
+openai>=1.0.0
+python-dotenv  # (optional, for managing secrets)
+python-dotenv
+telegram
+pandas
+flask

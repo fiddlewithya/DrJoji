@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-04-16T09:12:02.432953",
+    "user_id": 123456,
+    "score": 4,
+    "comment": "Very helpful"
+  },
+  {
+    "timestamp": "2025-04-16T09:12:02.432983",
+    "user_id": 789012,
+    "score": 5,
+    "comment": ""
+  },
+  {
+    "timestamp": "2025-04-16T09:12:02.433007",
+    "user_id": 345678,
+    "score": 2,
+    "comment": "Not responsive"
+  },
+  {
+    "user_id": 123456789,
+    "score": 4,
+    "comment": "Very helpful and friendly bot!",
+    "timestamp": "2025-04-16T09:12:36.333019"
+  }
+]
